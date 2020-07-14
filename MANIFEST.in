@@ -1,10 +1,16 @@
 include *.txt
+include babel.cfg
 include LICENSE
-recursive-include sphinx_shoop_theme *.conf
-recursive-include sphinx_shoop_theme *.css
-recursive-include sphinx_shoop_theme *.eot
-recursive-include sphinx_shoop_theme *.html
-recursive-include sphinx_shoop_theme *.js
-recursive-include sphinx_shoop_theme *.svg
-recursive-include sphinx_shoop_theme *.ttf
-recursive-include sphinx_shoop_theme *.woff
+recursive-include sphinx_shuup_theme *.conf
+recursive-include sphinx_shuup_theme *.css
+recursive-include sphinx_shuup_theme *.eot
+recursive-include sphinx_shuup_theme *.html
+recursive-include sphinx_shuup_theme *.js
+recursive-include sphinx_shuup_theme *.svg
+recursive-include sphinx_shuup_theme *.ttf
+recursive-include sphinx_shuup_theme *.woff
+recursive-include sphinx_shuup_theme *.woff2
+recursive-include sphinx_shuup_theme/locale *.pot *.po *.mo
+recursive-include tests *.py
+recursive-include tests *.rst
+prune build

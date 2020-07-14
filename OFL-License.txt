@@ -1,7 +1,7 @@
-sphinx_shoop_theme/static/fonts/Inconsolata-Bold.ttf
-sphinx_shoop_theme/static/fonts/Lato-Bold.ttf
-sphinx_shoop_theme/static/fonts/Inconsolata.ttf
-sphinx_shoop_theme/static/fonts/Lato-Regular.ttf
+sphinx_shuup_theme/static/css/fonts/Inconsolata-Bold.ttf
+sphinx_shuup_theme/static/css/fonts/Lato-Bold.ttf
+sphinx_shuup_theme/static/css/fonts/Inconsolata.ttf
+sphinx_shuup_theme/static/css/fonts/Lato-Regular.ttf
 
 
 
